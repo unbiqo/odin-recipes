@@ -1,0 +1,27 @@
+.main-title {
+    text-align: center;
+    font-family: Verdana, Tahoma, Arial;
+}
+div {
+    background-color: rgb(185, 185, 255);
+    width: 50%;
+    margin: 0 auto;
+}
+.main-list{
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 16px;
+    color:black;
+    text-align: center;
+    list-style: none;    
+}
+
+a{
+    color:black;
+}
+
+a:visited{
+    color:black;
+}
+a:hover{
+    color:black;
+}
